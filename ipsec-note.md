@@ -83,6 +83,6 @@ Trong giai đoạn này, hai hệ thống sẽ sử dụng “đường ngầm�
 
 
 #Nguồn
-http://thonghoang.com/bao-mat/ipsec-ip-security-la-gi.html
-https://norkvalhalla.wordpress.com/2013/06/16/khai-quat-ipsec/
-https://duongtuanan.wordpress.com/2010/10/29/870/
+- http://thonghoang.com/bao-mat/ipsec-ip-security-la-gi.html
+- https://norkvalhalla.wordpress.com/2013/06/16/khai-quat-ipsec/
+- https://duongtuanan.wordpress.com/2010/10/29/870/
